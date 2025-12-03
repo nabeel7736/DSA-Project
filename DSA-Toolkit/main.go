@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
+	// Sortings
 	fmt.Println("=== Sorting ===")
 	a := []int{5, 2, 9, 1}
 	BubbleSort(a)
